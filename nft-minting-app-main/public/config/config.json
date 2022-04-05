@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x68FC5D55206C9c2300B95498D5e87e7d455F0F27",
+  "SCAN_LINK": "https://polygonscan.com/address/0x68fc5d55206c9c2300b95498d5e87e7d455f0f27",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Rising Sun DAO",
+  "SYMBOL": "RSD",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-rising-sun-dao",
+  "SHOW_BACKGROUND": true
+}
